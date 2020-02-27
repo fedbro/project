@@ -1,0 +1,7 @@
+0 500 Rupees
+1 2000 Rupees
+2 100 Rupees
+3 10 Rupees
+4 20 Rupees
+5 200 Rupees
+6 50 Rupees
